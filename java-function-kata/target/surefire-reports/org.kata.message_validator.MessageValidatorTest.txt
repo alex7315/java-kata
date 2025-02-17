@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.kata.message_validator.MessageValidatorTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.017 s -- in org.kata.message_validator.MessageValidatorTest

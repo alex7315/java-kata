@@ -1,0 +1,5 @@
+org\kata\alphabet_war\AlphabetWarTest.class
+org\kata\test_scrolling\TextScrollingMachineTest.class
+org\kata\roman_numerals\RomanNumbersToDecimalParserTest.class
+org\kata\fizz_buzz\FizzBuzzTest.class
+org\kata\message_validator\MessageValidatorTest.class
